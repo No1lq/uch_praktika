@@ -1,0 +1,10 @@
+C:\Users\shtugonshoev\source\repos\SMO_Efficiency_Calculator\SMO_Efficiency_Calculator\bin\Debug\SMO_Efficiency_Calculator.exe.config
+C:\Users\shtugonshoev\source\repos\SMO_Efficiency_Calculator\SMO_Efficiency_Calculator\bin\Debug\SMO_Efficiency_Calculator.exe
+C:\Users\shtugonshoev\source\repos\SMO_Efficiency_Calculator\SMO_Efficiency_Calculator\bin\Debug\SMO_Efficiency_Calculator.pdb
+C:\Users\shtugonshoev\source\repos\SMO_Efficiency_Calculator\SMO_Efficiency_Calculator\obj\Debug\SMO_Efficiency_Calculator.csproj.AssemblyReference.cache
+C:\Users\shtugonshoev\source\repos\SMO_Efficiency_Calculator\SMO_Efficiency_Calculator\obj\Debug\SMO_Efficiency_Calculator.Form1.resources
+C:\Users\shtugonshoev\source\repos\SMO_Efficiency_Calculator\SMO_Efficiency_Calculator\obj\Debug\SMO_Efficiency_Calculator.Properties.Resources.resources
+C:\Users\shtugonshoev\source\repos\SMO_Efficiency_Calculator\SMO_Efficiency_Calculator\obj\Debug\SMO_Efficiency_Calculator.csproj.GenerateResource.cache
+C:\Users\shtugonshoev\source\repos\SMO_Efficiency_Calculator\SMO_Efficiency_Calculator\obj\Debug\SMO_Efficiency_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\shtugonshoev\source\repos\SMO_Efficiency_Calculator\SMO_Efficiency_Calculator\obj\Debug\SMO_Efficiency_Calculator.exe
+C:\Users\shtugonshoev\source\repos\SMO_Efficiency_Calculator\SMO_Efficiency_Calculator\obj\Debug\SMO_Efficiency_Calculator.pdb
